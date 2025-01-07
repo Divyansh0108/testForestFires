@@ -49,7 +49,11 @@ The dataset is sourced from the [UCI Machine Learning Repository](https://archiv
 ### Dataset Findings:
 - Fires were predominantly observed in **July, August, and September** across both regions.
 - The dataset includes **138 Fire** and **106 Not Fire** instances.
-
+![Linear Regression Accuracy](assets/LinReg.png)
+![Correlation b/w features](assets/heatmap.png)
+![Population of classes](assets/pctclass.png)
+![Before vs after standardization](assets/std.png)
+![Density plot for all features](assets/densityplot.png)
 ---
 
 ## Approach
